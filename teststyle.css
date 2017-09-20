@@ -2,3 +2,7 @@ p{
 background:red;
   color:white;
 }
+p.hover{
+color:blue;
+  background:red;
+}
